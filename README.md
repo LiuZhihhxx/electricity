@@ -1,0 +1,2 @@
+# electricity
+对比tft和autoformer模型在electricity数据集的性能
